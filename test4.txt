@@ -1,0 +1,14 @@
+Questo è il quarto file
+
+1 creare il file con vim
+
+2 Salvare il file
+
+3 verificare lo status
+
+4 marcare il file con ADD
+
+5 commentare
+
+6 fare il push
+
